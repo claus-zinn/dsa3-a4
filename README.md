@@ -28,7 +28,7 @@ instance, can be represented as an array of integers [15,2,1,12,8,5,6,11,4,9,10,
 '0' denoting the blank. Write a constructor method
 
 ~~~{.java}
-public void  public NNPuzzle( int N ) throws Exception
+public NNPuzzle( int N ) throws Exception
 ~~~
 
 that
