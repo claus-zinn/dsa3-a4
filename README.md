@@ -4,7 +4,7 @@
  be disgarded.* Please respect the class' [policy](https://dsacl3-2018.github.io/policy.html). Happy coding!
 
 
-![npuzzle](file:///Users/zinn/Teaching/DSA-CL-III/145px-15-puzzle_magical.svg.png "15-puzzle")
+![npuzzle](https://github.com/claus-zinn/dsa3-a4/blob/master/145px-15-puzzle_magical.svg.png "15-puzzle")
 
 ## The assignment
 
