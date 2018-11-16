@@ -47,7 +47,7 @@ public class NNPuzzle
     // given, do not change or delete.
     @Override
     public int hashCode() {
-        return super.hashCode();
+	return Arrays.hashCode(tiles);
     }
     
     public List<NNPuzzle> successors() {
